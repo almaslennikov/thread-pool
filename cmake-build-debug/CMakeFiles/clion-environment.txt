@@ -1,4 +1,0 @@
-ToolSet: w64 3.4@C:\Qt\Tools\mingw492_32
-Options: 
-
-Options:
