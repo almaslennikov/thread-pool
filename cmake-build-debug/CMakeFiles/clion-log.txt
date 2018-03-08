@@ -1,0 +1,4 @@
+C:\Users\Alexander-PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.3870.21\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Alexander-PC\ClionProjects\load-balancing-test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Alexander-PC/ClionProjects/load-balancing-test/cmake-build-debug
